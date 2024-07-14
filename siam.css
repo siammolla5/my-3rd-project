@@ -1,0 +1,62 @@
+div{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+h2{
+    color: white;
+}
+body{
+    background-color: black;
+}
+p{
+    color: rgb(24, 96, 253);
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px ;
+    border-image-outset: 0cqw;
+    border-radius:50px ;
+}
+.bolog{
+    height:140px ;
+    width: 120px;
+}
+.siam{
+   
+    font-style: italic;
+    border: 10px solid red;
+    border-radius:30px ;
+    margin:10px ;
+    width: 135px ;
+    height:200px ;
+    padding: 50px  ;
+    display: inline-block;
+}
+h3{
+    color: red;
+    font-size: 40px;
+    text-align:center;
+    font-weight: 900;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+span{
+    color: aqua;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.saim{
+    height: 160px ;
+    width: 200px ;
+}
+#emon{
+    color: cyan;
+    background-color: rgba(72, 4, 4, 0.457);
+}
+
